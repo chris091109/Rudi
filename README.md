@@ -1,0 +1,2 @@
+# Rudi
+Nixos Linux Config
